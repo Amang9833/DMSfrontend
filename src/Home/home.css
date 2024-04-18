@@ -1,0 +1,39 @@
+.wrapper{
+    padding: 4%;
+    background-color: rgba(245, 222, 179, 0.788);
+    height: calc(100vh - 148px);
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content:space-around;
+    /* border: 2px solid red; */
+    width: 100%;
+    padding-left:25%;
+}
+
+.btn{
+    border: 2px solid red;
+    height: 100px;
+    width: 40%;
+
+}
+
+.btn:hover{
+    background-color: green;
+}
+
+.link{
+    width: 100%;
+}
+
+.header-style{
+    background-color: wheat;
+}
+
+.link-tag:hover{
+    background-color: rgba(245, 222, 179, 0.473);
+}
+
+.link-tab{
+    background-color: rgba(255, 255, 255, 0.801);
+}

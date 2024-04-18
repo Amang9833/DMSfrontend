@@ -1,0 +1,23 @@
+.uploadPg{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(245, 222, 179, 0.788);
+    gap: 50px;
+    margin: auto;
+}
+
+.MuiTextField-root{
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    width: 20%;
+
+}
+
+.submitButton{
+    border: 2px solid red;
+    width: 10%;
+}
